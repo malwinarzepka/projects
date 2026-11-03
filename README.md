@@ -1,6 +1,6 @@
-# projects
+# Tic Tac Toe
 
-The game of Tic Tac Toe: human player vs. computer which inputs random moves.
+The game of Tic Tac Toe written in Python: human player vs. computer which inputs random moves.
 
 Functionalities:
 1. You can choose whether you want to play with X or O.
